@@ -1,16 +1,20 @@
-## Hi there 👋
+# Kumara Swamy B
+**AI Quality Architect · Staff SDET · Bengaluru · Immediate Joiner**
 
-<!--
-**bkumars22/bkumars22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+13 years enterprise engineering · 2 years production AI
 
-Here are some ideas to get you started:
+## 4 Live AI Systems — Built Solo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it does | Key metric |
+|---|---|---|
+| [QAIP](https://bkumars22.github.io/QA-Intelligent-Platform) | Autonomous QA pipeline | 3 days → 45 min |
+| [SCIP](https://bkumars22.github.io/SupplyChainPlatformProject) | Supply chain risk AI | P0 BCrypt bug found |
+| [ARIA](https://bkumars22.github.io/ARIA) | AI tutor · 35 languages | 22.2% → 100% compliance |
+| [ZENTRAVIX](https://bkumars22.github.io/ZENTRAVIX) | Org intelligence platform | CEO to Junior · 9 depts |
+
+## Stack
+LangGraph · Claude AI · deepeval · MCP Servers · pgvector RAG  
+Java 17 · Python · Spring Boot · FastAPI · React 18 · Docker
+
+📧 swmy.kumar02@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/bkumars22)
