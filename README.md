@@ -17,4 +17,4 @@ LangGraph · Claude AI · deepeval · MCP Servers · pgvector RAG
 Java 17 · Python · Spring Boot · FastAPI · React 18 · Docker
 
 📧 swmy.kumar02@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/bkumars22)
+🔗 🔗 [LinkedIn](https://www.linkedin.com/in/kumara-swamy-7731b020/)
