@@ -3,7 +3,7 @@
 
 13 years enterprise engineering · 3 years production AI
 
-## 5 Live AI Systems
+## 6 Live AI Systems
 
 | Project | What it does | Live Demo |
 |---|---|---|
@@ -12,6 +12,7 @@
 | ARIA | AI tutor · 35 languages | [Live](https://bkumars22.github.io/ARIA) |
 | ZENTRAVIX | Org intelligence platform | [Live](https://bkumars22.github.io/ZENTRAVIX) |
 | AIMO | AI incident monitoring | [Live](https://bkumars22.github.io/AIMO) |
+| AIPQ | Prompt quality & drift management | [Live](https://bkumars22.github.io/AIPQ) |
 
 ## Stack
 LangGraph · Claude AI · deepeval · MCP Servers · pgvector RAG
