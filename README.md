@@ -3,7 +3,7 @@
 
 13 years enterprise engineering · 3 years production AI
 
-## 6 Live AI Systems
+## 7 Live AI Systems
 
 | Project | What it does | Live Demo |
 |---|---|---|
@@ -13,6 +13,7 @@
 | ZENTRAVIX | Org intelligence platform | [Live](https://bkumars22.github.io/ZENTRAVIX) |
 | AIMO | AI incident monitoring | [Live](https://bkumars22.github.io/AIMO) |
 | AIPQ | Prompt quality & drift management | [Live](https://bkumars22.github.io/AIPQ) |
+| BCT | Behavioral contract testing for AI systems | [Live](https://bkumars22.github.io/bct-framework/) |
 
 ## Stack
 LangGraph · Claude AI · deepeval · MCP Servers · pgvector RAG
