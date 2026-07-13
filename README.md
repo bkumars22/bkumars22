@@ -1,6 +1,7 @@
 # Kumara Swamy B
 **AI Quality Architect · Staff SDET · Bengaluru · Immediate Joiner**
 
+
 13 years enterprise engineering · 3 years production AI
 
 ## 7 Live AI Systems
